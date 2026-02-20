@@ -4,18 +4,16 @@
   
 ### [Network Engineer] | [Nashville, TN / Network Automation]
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:t.parnell96@icloud.com)
-
 </div>
 
 ---
 
 ## About Me
 
-> I'm just someone who loves to program and build systems, mostly for automation.
+> I'm just someone who loves to program and build, mostly for automation.
 
-- I'm currently working on **[Building a K3s cluster at home using Ansible / Terraform]**
-- I'm currently learning **[Kubernetes]**
+- I'm currently working on **Building a K3s cluster at home using Ansible / Terraform**
+- I'm currently learning **Kubernetes**
 
 ---
 
@@ -60,11 +58,11 @@
 
 ---
 
-## When I'm Not Coding
+## When I'm Not Coding I like to
 
-- [Reading]
-- [Gaming]
-- [Traveling]
+- Read
+- Game
+- Travel
 
 ---
 
@@ -79,7 +77,5 @@
 ![Visitor Count](https://profile-counter.glitch.me/hexabyte8/count.svg)
 
 ---
-
-**From [hexabyte8](https://github.com/hexabyte8)**
 
 </div>
