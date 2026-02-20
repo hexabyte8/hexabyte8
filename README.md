@@ -77,7 +77,7 @@
 
 ### Profile Views
 
-![Visitor Count](https://profile-counter.glitch.me/hexabyte8/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=hexabyte8&color=red&style=for-the-badge)
 
 ---
 
