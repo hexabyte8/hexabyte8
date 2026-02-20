@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### [Network Engineer] | [Nashville, TN / Network Automation]
+### Network Engineer | Network Automation
 
 </div>
 
