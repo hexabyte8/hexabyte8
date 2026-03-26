@@ -12,8 +12,7 @@
 
 > I'm just someone who loves to program and build, mostly for automation.
 
-- I'm currently working on **Building a fully GitOps managed K3s cluster**
-- I'm currently learning **ArgoCD**
+Current home project: **Building a fully GitOps managed K3s cluster and adding useful services to it**
 
 ---
 
@@ -62,14 +61,6 @@
 <!--START_SECTION:activity-->
 <!-- This section can be auto-updated with GitHub Actions -->
 <!--END_SECTION:activity-->
-
----
-
-## When I'm Not Coding I like to
-
-- Read
-- Game
-- Travel
 
 ---
 
