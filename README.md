@@ -72,7 +72,7 @@ Current home project: **Building a fully GitOps managed K3s cluster and adding u
 
 ### Profile Views
 
-![:hexabyte8.github](https://count.getloli.com/@:hexabyte8.github?name=hexabyte8.github&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+![Profile Views Counter](https://count.getloli.com/@:hexabyte8.github?name=hexabyte8.github&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
 
 ---
 
