@@ -56,14 +56,6 @@ Current home project: **Building a fully GitOps managed K3s cluster and adding u
 
 ---
 
-## Contribution Activity
-
-<!--START_SECTION:activity-->
-<!-- This section can be auto-updated with GitHub Actions -->
-<!--END_SECTION:activity-->
-
----
-
 <div align="center">
 
 ### Quote of the Day
