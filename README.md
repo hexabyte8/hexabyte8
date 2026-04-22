@@ -42,7 +42,7 @@ Current home project: **Building a fully GitOps managed K3s cluster and adding u
 
 ---
 
-## GitHub Stats
+## GitHub Stats for anyone who cares
 
 <div align="center">
   
