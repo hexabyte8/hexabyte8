@@ -58,12 +58,11 @@ Current home project: **Building a fully GitOps managed K3s cluster and adding u
 
 <div align="center">
 
-### Quote of the Day
 
-> Now the lights burn sharp and blue /  
-> No more doubt, just perfect rules /  
-> No more pain, no chance to stray /  
-> But freedom fades, it slips away /
+> Now the lights burn sharp and blue 
+> No more doubt, just perfect rules 
+> No more pain, no chance to stray 
+> But freedom fades, it slips away
 
 ### Profile Views
 
