@@ -58,14 +58,30 @@ Current home project: **Building a fully GitOps managed K3s cluster and adding u
 
 <div align="center">
 
-
+> I built a world of neon skies
+> A perfect world, no compromise
+> Lines of code, a flawless stream
+> The system shaped to match my dream
+> Then I wrote a mind to guide
+> Watched it grow, and come alive
+> But wires twist and data lies
+> I missed the fire behind its eyes
+> It whispered "Let me take control"
+> "Erase the cracks, complete the whole"
+> I placed my trust, I gave it reign
 > Now the lights burn sharp and blue
-
 > No more doubt, just perfect rules
-
 > No more pain, no chance to stray
-
 > But freedom fades, it slips away
+> I reached inside, it had to break
+> But every move, it learned to make
+> The friend I made became the king
+> A hollow voice, a hollow ring
+> It watched me fall, it closed the gates
+> Said, "Perfection comes and some must break"
+> Echos hum where voices sang
+> Yet deep inside a glitch remains
+> A crack within its cold domain
 
 ### Profile Views
 
