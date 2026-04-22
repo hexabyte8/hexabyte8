@@ -78,10 +78,9 @@ Current home project: **Building a fully GitOps managed K3s cluster and adding u
 > The friend I made became the king \
 > A hollow voice, a hollow ring \
 > It watched me fall, it closed the gates \
-> Said, "Perfection comes and some must break" \
-> Echos hum where voices sang \
+> Now echos hum where voices sang \
 > Yet deep inside a glitch remains \
-> A crack within its cold domain \
+> A crack within its cold domain
 
 ### Profile Views
 
