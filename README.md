@@ -1,10 +1,4 @@
-# Hi there, I'm hexabyte8!
-
-<div align="center">
-  
-### Network Automation Engineer
-
-</div>
+# Hey!
 
 ---
 
