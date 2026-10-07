@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### Network Engineer | Network Automation
+### Network Automation Engineer
 
 </div>
 
