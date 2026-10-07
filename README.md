@@ -8,7 +8,7 @@
 
 ---
 
-## My favorite Tech
+## Favorite tools and languages
 
 ### Languages
 
