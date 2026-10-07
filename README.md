@@ -4,9 +4,7 @@
 
 ## About Me
 
-> I'm just someone who loves to program and build, mostly for automation.
-
-Current home project: **Building a fully GitOps managed K3s cluster and adding useful services to it**
+> I'm just someone who loves to program and build, mostly for automation around networks and infrastructure.
 
 ---
 
