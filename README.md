@@ -32,15 +32,3 @@
 <div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=hexabyte8&theme=radical&hide_border=true)
-
-</div>
-
----
-
-### Profile Views
-
-![Profile Views Counter](https://count.getloli.com/@:hexabyte8.github?name=hexabyte8.github&theme=original-new&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
-
----
-
-</div>
